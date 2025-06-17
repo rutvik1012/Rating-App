@@ -1,7 +1,7 @@
 https://rutvik1012.github.io/Rating-App/
 
 
-This is a simple and interactive star rating system built with:
+**This is a simple and interactive star rating system built with:**
 
 HTML for structure
 
