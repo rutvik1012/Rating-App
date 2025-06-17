@@ -10,3 +10,12 @@ Font Awesome for star icons
 CSS for styling
 
 JavaScript to handle star selection and dynamically update the rating
+
+
+**🔧 Features:**
+
+Click on stars to rate (1–5)
+
+Highlight selected stars
+
+Show selected rating below the stars
