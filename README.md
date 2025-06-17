@@ -16,6 +16,9 @@ JavaScript to handle star selection and dynamically update the rating
 
 Click on stars to rate (1–5)
 
-Highlight selected stars
+  Highlight selected stars
 
-Show selected rating below the stars
+ Show selected rating below the stars
+
+
+**Useful for review sections, product ratings, or feedback forms.**
